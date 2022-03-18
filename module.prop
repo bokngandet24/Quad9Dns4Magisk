@@ -1,0 +1,6 @@
+id=magisk-Quad9-Dns
+name=Magisk Quad9 DNS
+version=v1
+versionCode=1
+author=BokNgan Det
+description=Use Quad9's DNS servers instead of the provided by the ISP

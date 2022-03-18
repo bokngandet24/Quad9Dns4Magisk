@@ -1,0 +1,1 @@
+# Quad9Dns4Magisk
